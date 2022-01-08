@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mfadlanridho
-- 👀 I’m interested in Mobile Apps, whether it's a game, hybrid app or native iOS / Android apps. 
-- 🌱 I’m currently learning Flutter and SwiftUI.
-- 🎮 I'm experienced in making complex mobile games, meaning I have good knowledge of OOP and code performance.
-- 💞️ I’m looking to collaborate on making more mobile applications.
+- 👀 I’m interested in Mobile Apps, whether it's a game, hybrid app, native apps or even watches. 
+- 🌱 I’m currently learning Flutter, SwiftUI and NodeJS.
+- 🎮 I'm very experienced in making games with interesting functionalities for mobile devices. Hence, I have great knowledge of OOP, code readability and scalability, performance, state management, and creating different types of algorithms.
+- 💞️ I’m looking forward to collaborate on making more great mobile applications.
 
 <!---
 - 📫 You can reach me  
