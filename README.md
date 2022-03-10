@@ -1,1 +1,1 @@
-Been making games since high school. Highly proficient with OOP. Loves solving unique problems.
+3D Programmer. Been making games since high school. Highly proficient with OOP. Loves solving unique problems.
